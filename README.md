@@ -25,5 +25,3 @@ GeoGuide é um aplicativo de bússola 100% baseado em GPS que ajuda você a nave
 - Ideal para trilhas, geocaching, expedições e atividades ao ar livre  
 - Consome pouca bateria ao filtrar atualizações de GPS desnecessárias
 
-
-   git clone https://github.com/seu-usuario/geoguide.git
